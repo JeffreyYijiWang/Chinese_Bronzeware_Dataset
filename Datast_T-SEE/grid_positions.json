@@ -1,0 +1,316 @@
+{
+  "grid_size": {
+    "nx": 11,
+    "ny": 7
+  },
+  "positions": {
+    "01f246745389f16ce57879aa2829bbbc.jpg": {
+      "col": 0,
+      "row": 1
+    },
+    "028c8d6453b6282ad156ea1b02e6d293.jpg": {
+      "col": 5,
+      "row": 4
+    },
+    "0ad6c10561d7db2120857d0a4cec259a.jpg": {
+      "col": 8,
+      "row": 0
+    },
+    "0b297a66882c03cb121dad7efee38be0.jpg": {
+      "col": 0,
+      "row": 0
+    },
+    "1-1.jpg": {
+      "col": 5,
+      "row": 5
+    },
+    "2e3592ae09c76a0ab06487d40f9830ef.jpg": {
+      "col": 0,
+      "row": 3
+    },
+    "3-1.jpg": {
+      "col": 9,
+      "row": 4
+    },
+    "35062c0d5c015531337f680741ec3b6e.jpg": {
+      "col": 5,
+      "row": 2
+    },
+    "36102a9f0562b22a1280ae3ea52abc3c.jpg": {
+      "col": 6,
+      "row": 3
+    },
+    "3ff433915e34f758f8f13ec29cd4a2c5.jpg": {
+      "col": 1,
+      "row": 1
+    },
+    "4-1.jpg": {
+      "col": 9,
+      "row": 1
+    },
+    "45b24ed14afacbdd828726a0a8df04cf.jpg": {
+      "col": 8,
+      "row": 3
+    },
+    "4e160a48a883dceec69720eab45933e2.jpg": {
+      "col": 9,
+      "row": 0
+    },
+    "5-1.jpg": {
+      "col": 6,
+      "row": 1
+    },
+    "50a6317bc317a4d9628656e10a724de2.jpg": {
+      "col": 1,
+      "row": 4
+    },
+    "53683e3c3272b10f51e9de97448c90b2.jpg": {
+      "col": 0,
+      "row": 2
+    },
+    "5a47b8c3b640d9f07f538180a43c93a2.jpg": {
+      "col": 7,
+      "row": 4
+    },
+    "60e22eb835d7ed4a0f244f47dd569723.jpg": {
+      "col": 7,
+      "row": 3
+    },
+    "6c79bb6b5770fd9c9dbe214f7678f804.jpg": {
+      "col": 1,
+      "row": 2
+    },
+    "6e710a5a9880a6817d756176782b883f.jpg": {
+      "col": 6,
+      "row": 2
+    },
+    "6ed1ad9c4d0b9b25839c45ded8e2db79.jpg": {
+      "col": 7,
+      "row": 0
+    },
+    "79258e699c40b4b54ec31017c5473a57.jpg": {
+      "col": 10,
+      "row": 3
+    },
+    "8c73d0773e43cf0f8d710c0a8332aed7.jpg": {
+      "col": 3,
+      "row": 5
+    },
+    "9096f9ba5a27d42552a6af06dfe99f30.jpg": {
+      "col": 4,
+      "row": 4
+    },
+    "91ecef216c64abaf6381af8f8dcecca9.jpg": {
+      "col": 5,
+      "row": 3
+    },
+    "938fa6f3edb09d8f78a39391efbad9d9.jpg": {
+      "col": 2,
+      "row": 5
+    },
+    "94d16ae9ba172ca49b238dab4d04ed80.jpg": {
+      "col": 2,
+      "row": 0
+    },
+    "9f42b0170246d1f23e1ed60c53ee0736.jpg": {
+      "col": 7,
+      "row": 2
+    },
+    "GetImage (1).jpeg": {
+      "col": 3,
+      "row": 4
+    },
+    "GetImage (2).jpeg": {
+      "col": 4,
+      "row": 0
+    },
+    "GetImage (3).jpeg": {
+      "col": 5,
+      "row": 0
+    },
+    "GetImage (4).jpeg": {
+      "col": 3,
+      "row": 1
+    },
+    "GetImage.jpeg": {
+      "col": 4,
+      "row": 1
+    },
+    "Screenshot 2025-03-18 143111.png": {
+      "col": 0,
+      "row": 5
+    },
+    "Screenshot 2025-03-18 143145.png": {
+      "col": 5,
+      "row": 1
+    },
+    "Screenshot 2025-03-18 144946.png": {
+      "col": 0,
+      "row": 4
+    },
+    "Screenshot 2025-03-18 145011.png": {
+      "col": 7,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 145042.png": {
+      "col": 6,
+      "row": 0
+    },
+    "Screenshot 2025-03-18 145051.png": {
+      "col": 8,
+      "row": 5
+    },
+    "Screenshot 2025-03-18 145100.png": {
+      "col": 6,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 145111.png": {
+      "col": 2,
+      "row": 3
+    },
+    "Screenshot 2025-03-18 145127.png": {
+      "col": 1,
+      "row": 5
+    },
+    "Screenshot 2025-03-18 145136.png": {
+      "col": 6,
+      "row": 5
+    },
+    "Screenshot 2025-03-18 145358.png": {
+      "col": 3,
+      "row": 0
+    },
+    "Screenshot 2025-03-18 145407.png": {
+      "col": 3,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 145416.png": {
+      "col": 2,
+      "row": 2
+    },
+    "Screenshot 2025-03-18 145429.png": {
+      "col": 1,
+      "row": 0
+    },
+    "Screenshot 2025-03-18 145449.png": {
+      "col": 9,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 145459.png": {
+      "col": 8,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 150016.png": {
+      "col": 2,
+      "row": 1
+    },
+    "Screenshot 2025-03-18 150028.png": {
+      "col": 1,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 150111.png": {
+      "col": 5,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 150123.png": {
+      "col": 3,
+      "row": 3
+    },
+    "Screenshot 2025-03-18 150146.png": {
+      "col": 3,
+      "row": 2
+    },
+    "Screenshot 2025-03-18 150635.png": {
+      "col": 4,
+      "row": 3
+    },
+    "Screenshot 2025-03-18 154239.png": {
+      "col": 9,
+      "row": 2
+    },
+    "Screenshot 2025-03-18 154302.png": {
+      "col": 6,
+      "row": 4
+    },
+    "Screenshot 2025-03-18 160542.png": {
+      "col": 4,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 160558.png": {
+      "col": 2,
+      "row": 6
+    },
+    "Screenshot 2025-03-18 161409.png": {
+      "col": 4,
+      "row": 5
+    },
+    "Screenshot 2025-03-18 173138.png": {
+      "col": 7,
+      "row": 5
+    },
+    "Screenshot 2025-03-18 173150.png": {
+      "col": 9,
+      "row": 3
+    },
+    "Screenshot 2025-03-18 173201.png": {
+      "col": 8,
+      "row": 4
+    },
+    "Screenshot 2025-03-18 173213.png": {
+      "col": 9,
+      "row": 5
+    },
+    "Screenshot 2025-03-18 173225.png": {
+      "col": 10,
+      "row": 5
+    },
+    "Screenshot 2025-03-18 173555.png": {
+      "col": 10,
+      "row": 2
+    },
+    "b19c7aa350655ce72d6d7bd645b761e7.jpg": {
+      "col": 10,
+      "row": 4
+    },
+    "bronze.png": {
+      "col": 2,
+      "row": 4
+    },
+    "c65699b441e061a704de49a48ce86764.jpg": {
+      "col": 1,
+      "row": 3
+    },
+    "d6eb269f6293ffdb52ab9788d0add3fa.jpg": {
+      "col": 7,
+      "row": 1
+    },
+    "d963ff85b6b4269044c5dd928b69b96b.jpg": {
+      "col": 8,
+      "row": 2
+    },
+    "download.png": {
+      "col": 10,
+      "row": 6
+    },
+    "ed6ef38167273b1f53bd7098b27688c4.jpg": {
+      "col": 4,
+      "row": 2
+    },
+    "faba745c4844c806d99ca6e2e8e71b39.jpg": {
+      "col": 0,
+      "row": 6
+    },
+    "fae714e2e2e6bf5027ceba1042d1325b.jpg": {
+      "col": 10,
+      "row": 1
+    },
+    "fb400868a2c9cef656048e8870b233c8.jpg": {
+      "col": 8,
+      "row": 1
+    },
+    "sasdf.png": {
+      "col": 10,
+      "row": 0
+    }
+  }
+}
